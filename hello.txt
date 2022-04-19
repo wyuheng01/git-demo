@@ -6,4 +6,6 @@ fourth
 
 hot-fix
 
-master test--
+master test
+
+first-test hot-fix
